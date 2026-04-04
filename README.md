@@ -13,7 +13,7 @@
 
 ---
 
-### 🧰 Languages & Technologies
+### Languages & Technologies
 
 - **Systems & Low-Level:** C, C++, Rust, Go
 - **General Purpose:** Python, Java, C#
@@ -23,14 +23,14 @@
 
 ---
 
-### 🐧 Environment
+### The Environment I work in
 
 - **OS:** Ubuntu / Linux (Primary). I sometimes use windows
 - **Workflow:** CLI-focused, lightweight tooling, performance-oriented
 
 ---
 
-### 🚀 Interests
+### My Interests
 - Machine Learning
 - Systems Programming
 - Performance Optimization
@@ -40,6 +40,6 @@
 
 ---
 
-### 💼 Status
+### My Status
 
 **Currently looking for a job / opportunities(I am also a student)**
