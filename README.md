@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub
-- 🔭 I’m currently focused on **Machine Learning**, **Systems Programming**, and **Low-Level Development**
+- I’m currently focused on **Machine Learning**, **Systems Programming**, and **Low-Level Development**
 - I enjoy working close to the metal - performance, compilers, and tooling
 - Interested in **AI/ML**, **Operating Systems**, **Networking**, and **Backend Infrastructure**
 - I mainly use **Ubuntu/Linux** as my development environment, I would sometimes use powershell
