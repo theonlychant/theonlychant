@@ -8,7 +8,7 @@
 - Always learning new technologies and exploring different programming paradigms
 - How to reach me: **[sacehenry@gmail.com](mailto:sacehenry@gmail.com)**
 - Pronouns: **He/Him**
-- Rarely active, but always building something
+- Somewhat active, but always building something
 -  Currently **open to job opportunities** (Software Engineering / Systems / ML)
 
 ---
