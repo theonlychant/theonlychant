@@ -2,3 +2,4 @@ I am a 19 year old student still adjusting to some stuff learning and building e
 I love machine learning 
 
 Message me sacehenry@gmail.com or one of my github repos
+![snake gif](https://raw.githubusercontent.com/theonlychant/theonlychant/output/github-snake.svg)
