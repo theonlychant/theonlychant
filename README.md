@@ -3,3 +3,4 @@ I love machine learning
 
 Message me sacehenry@gmail.com or one of my github repos
 ![snake gif](https://raw.githubusercontent.com/theonlychant/theonlychant/output/github-snake-dark.svg)
+💖 [Support me on PayPal](https://www.paypal.com/paypalme/JeromeHenry777)
